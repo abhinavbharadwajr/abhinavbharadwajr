@@ -2,7 +2,7 @@
 - 👀 I’m interested in Codes, Bugs, Debugging, Development and much more...
 - 🌱 I’m currently learning Java / Python / Flask / ACPI / OpenCore...
 - 💞️ I’m looking to collaborate on OpenCore for specific Systems and Python Programming.
-- 📫 drop a mail to abhinavbharadwajr@outlook.in
+- 📫 drop a mail to abhinavbharadwajr@outlook.in / @icloud.com / @zohomail.in / @proton.me
 
 - 👉 Facebook & Instagram : @abhinavbharadwajr
 - 👉 Twitter : @abhinavbharad
