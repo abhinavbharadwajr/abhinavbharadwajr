@@ -22,7 +22,7 @@
 - 👉 Facebook & Instagram : @abhinavbharadwajr
 - 👉 Twitter : @abhinavbharad
 
-### Wanna Know More About me? Here's my [Portfolio](https://abhinavbharadwajr.github.io).
+### Wanna Know More About me? Check [this](https://abhinavbharadwajr.github.io) out.
 
 <!---
 abhinavbharadwajr/abhinavbharadwajr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
