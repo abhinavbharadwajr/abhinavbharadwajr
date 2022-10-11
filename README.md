@@ -9,7 +9,7 @@
 - Tech Worm - Love reading about newest Tech in Town 🧑‍💻
 - Book Reading is a another Favorite Pass Time 📚
 
-- 📫 drop a mail to abhinavbharadwajr@outlook.in / @icloud.com / @zohomail.in / @proton.me
+- 📫 drop a mail to abhinav.bharadwajr@outlook.com / @icloud.com / @zohomail.in / @proton.me
 
 - 👉 Facebook & Instagram : @abhinavbharadwajr
 - 👉 Twitter : @abhinavbharad
