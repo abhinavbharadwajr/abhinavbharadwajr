@@ -20,32 +20,35 @@
 ### Some GitHub Stats
 
 <p>
-  <a href="https://github.com/abhinavbharadwajr#gh-light-mode-only" style={"padding":10px}>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavbharadwajr&theme=default&show_icons=true&line_height=27&count_private=true" alt="Abhinav's GitHub Stats" />
-  </a>
-  <a href="https://github.com/abhinavbharadwajr#gh-dark-mode-only" style={"padding":10px}>
+  <a href="<https://github.com/abhinavbharadwajr#gh-light-mode-only>" style={"padding":10px}>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavbharadwajr&theme=github_dark&show_icons=true&line_height=27&count_private=true" alt="Abhinav's GitHub Stats" />
   </a>
-  
-  <a href="https://github.com/abhinavbharadwajr#gh-light-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavbharadwajr&theme=default&show_icons=true&langs_count=3" />
-  </a>
-  <a href="https://github.com/abhinavbharadwajr#gh-dark-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavbharadwajr&theme=github_dark&show_icons=true&langs_count=3" />
+  <a href="<https://github.com/abhinavbharadwajr#gh-dark-mode-only>" style={"padding":10px}>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavbharadwajr&theme=github_dark&show_icons=true&line_height=27&count_private=true" alt="Abhinav's GitHub Stats" />
   </a>
 </p>
 
-  <a href="https://github.com/abhinavbharadwajr#gh-light-mode-only">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=abhinavbharadwajr&column=7&margin-w=13&theme=default" alt="Abhinav's GitHub Trophy" />
-  </a>
-  <a href="https://github.com/abhinavbharadwajr#gh-dark-mode-only">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=abhinavbharadwajr&column=7&margin-w=13&theme=monokai" alt="Abhinav's GitHub Trophy" />
-  </a>
-
-<br>
 <br>
 
-### Wanna Know More About me? Check my [Website](https://abhinavbharadwajr.github.io).
+<a href="https://github.com/abhinavbharadwajr#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavbharadwajr&theme=default&show_icons=true&langs_count=3" />
+</a>
+<a href="https://github.com/abhinavbharadwajr#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavbharadwajr&theme=github_dark&show_icons=true&langs_count=3" />
+</a>
+
+<br>
+
+<a href="https://github.com/abhinavbharadwajr#gh-light-mode-only">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=abhinavbharadwajr&column=3&margin-w=15&theme=darkhub" alt="Abhinav's GitHub Trophy" />
+</a>
+<a href="https://github.com/abhinavbharadwajr#gh-dark-mode-only">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=abhinavbharadwajr&column=3&margin-w=15&theme=darkhub" alt="Abhinav's GitHub Trophy" />
+</a>
+
+<br>
+
+### Wanna Know More About me? Check my [Website](https://abhinavbharadwajr.github.io)
 
 ### Get in Touch
 
@@ -54,13 +57,13 @@
   <a href="mailto:abhinav.bharadwajr@outlook.com"><img src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png"/></a>
   <a href="https://www.linkedin.com/in/abhinavbharadwajr"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
   <a href="https://twitter.com/abhinavbharad"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
-  <a href="https://wa,me/917200361295"><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png"/></a>
+  <a href="https://wa.me/919500188610"><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png"/></a>
 </p>
 
 <br>
 
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=abhinavbharadwajr" alt="visitor badge"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=abhinavbharadwajr" alt="visitor badge"/>
 </p>
 
 <!---
