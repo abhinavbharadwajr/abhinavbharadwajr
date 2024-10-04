@@ -1,15 +1,22 @@
-### Who Am I?
+# About Me
+
+<!---
+abhinavbharadwajr/abhinavbharadwajr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+## Who Am I?
 
 - 👋 Hi, I’m Abhinav Bharadwaj R
-- 🎓 Bachelor of Engineering in Computer Science.
+- 🎓 I hold a Bachelors Degree specializing in Computer Science and Engineering
 
-### What I do?
+## What I do?
 
-- 🧑‍💻 Software Developer - Cloud @ Servion Global Solutions
+- 🧑‍💻 DevOps Engineer @ Servion Global Solutions
 - 💻 Code --> Push --> Review --> Commit --> Build --> Deploy
 - ⚙️ DevOps / Bash / C and C++ / Java / Python / ACPI / OpenCore
 
-### What do I like to do?
+## What do I like to do?
 
 - 🪛 Build Custom PCs - Build Enthusiasist
 - 🖥️ Tech Worm - Love reading about newest Tech in Town
@@ -53,7 +60,6 @@
 ### Get in Touch
 
 <p align="center">
-  <a href="mailto:abhinavbharadwajr@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
   <a href="mailto:abhinav.bharadwajr@outlook.com"><img src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png"/></a>
   <a href="https://www.linkedin.com/in/abhinavbharadwajr"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
   <a href="https://twitter.com/abhinavbharad"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
@@ -65,8 +71,3 @@
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=abhinavbharadwajr" alt="visitor badge"/>
 </p>
-
-<!---
-abhinavbharadwajr/abhinavbharadwajr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
