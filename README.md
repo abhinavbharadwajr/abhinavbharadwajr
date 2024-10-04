@@ -1,15 +1,22 @@
-### Who Am I?
+# About Me
+
+<!---
+abhinavbharadwajr/abhinavbharadwajr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+## Who Am I?
 
 - 👋 Hi, I’m Abhinav Bharadwaj R
-- 🎓 Bachelor of Engineering in Computer Science.
+- 🎓 I hold a Bachelors Degree specializing in Computer Science and Engineering
 
-### What I do?
+## What I do?
 
-- 🧑‍💻 Software Developer - Cloud @ Servion Global Solutions
+- 🧑‍💻 DevOps Engineer @ Servion Global Solutions
 - 💻 Code --> Push --> Review --> Commit --> Build --> Deploy
 - ⚙️ DevOps / Bash / C and C++ / Java / Python / ACPI / OpenCore
 
-### What do I like to do?
+## What do I like to do?
 
 - 🪛 Build Custom PCs - Build Enthusiasist
 - 🖥️ Tech Worm - Love reading about newest Tech in Town
@@ -19,28 +26,24 @@
 
 ### Some GitHub Stats
 
-<p>
-  <a href="<https://github.com/abhinavbharadwajr#gh-light-mode-only>" style={"padding":10px}>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavbharadwajr&theme=github_dark&show_icons=true&line_height=27&count_private=true" alt="Abhinav's GitHub Stats" />
-  </a>
-  <a href="<https://github.com/abhinavbharadwajr#gh-dark-mode-only>" style={"padding":10px}>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavbharadwajr&theme=github_dark&show_icons=true&line_height=27&count_private=true" alt="Abhinav's GitHub Stats" />
-  </a>
-</p>
-
-<br>
 
 <a href="https://github.com/abhinavbharadwajr#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavbharadwajr&theme=default&show_icons=true&langs_count=3" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavbharadwajr&rank_icon=github&theme=default" />
+</a><a href="https://github.com/abhinavbharadwajr#gh-light-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavbharadwajr&layout=compact&langs_count=8&card_width=320&theme=default" />
+</a>
+
+<a href="https://github.com/abhinavbharadwajr#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavbharadwajr&rank_icon=github&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/abhinavbharadwajr#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavbharadwajr&theme=github_dark&show_icons=true&langs_count=3" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavbharadwajr&layout=compact&langs_count=8&card_width=320&theme=dark#gh-dark-mode-only" />
 </a>
 
 <br>
 
 <a href="https://github.com/abhinavbharadwajr#gh-light-mode-only">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=abhinavbharadwajr&column=3&margin-w=15&theme=darkhub" alt="Abhinav's GitHub Trophy" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=abhinavbharadwajr&column=3&margin-w=15&theme=default" alt="Abhinav's GitHub Trophy" />
 </a>
 <a href="https://github.com/abhinavbharadwajr#gh-dark-mode-only">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=abhinavbharadwajr&column=3&margin-w=15&theme=darkhub" alt="Abhinav's GitHub Trophy" />
@@ -48,12 +51,11 @@
 
 <br>
 
-### Wanna Know More About me? Check my [Website](https://abhinavbharadwajr.github.io)
+### Wanna Know More About me? Check out my [Website](https://abhinavbharadwajr.github.io)
 
 ### Get in Touch
 
 <p align="center">
-  <a href="mailto:abhinavbharadwajr@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
   <a href="mailto:abhinav.bharadwajr@outlook.com"><img src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png"/></a>
   <a href="https://www.linkedin.com/in/abhinavbharadwajr"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
   <a href="https://twitter.com/abhinavbharad"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
@@ -65,8 +67,3 @@
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=abhinavbharadwajr" alt="visitor badge"/>
 </p>
-
-<!---
-abhinavbharadwajr/abhinavbharadwajr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
