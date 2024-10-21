@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:abhinav.bharadwajr@outlook.com"><img src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png"/></a>
   <a href="https://www.linkedin.com/in/abhinavbharadwajr"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
   <a href="https://twitter.com/abhinavbharad"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
-  <a href="https://wa.me/919500188610"><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png"/></a>
+  <a href="https://wa.me/917200361295"><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png"/></a>
 </p>
 
 <br>
