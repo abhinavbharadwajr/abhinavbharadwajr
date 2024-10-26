@@ -41,17 +41,17 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <br>
-
+<!--
 <a href="https://github.com/abhinavbharadwajr#gh-light-mode-only">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=abhinavbharadwajr&column=3&margin-w=15&theme=default" alt="Abhinav's GitHub Trophy" />
 </a>
 <a href="https://github.com/abhinavbharadwajr#gh-dark-mode-only">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=abhinavbharadwajr&column=3&margin-w=15&theme=darkhub" alt="Abhinav's GitHub Trophy" />
 </a>
+<be>
+-->
 
-<br>
-
-### Wanna Know More About me? Check out my [Website](https://abhinavbharadwajr.github.io)
+### Wanna Know More About me? Check out my [Portfolio](https://abhinavbharadwajr.github.io)
 
 ### Get in Touch
 
