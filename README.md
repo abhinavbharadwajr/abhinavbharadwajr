@@ -41,17 +41,17 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <br>
-
+<!--
 <a href="https://github.com/abhinavbharadwajr#gh-light-mode-only">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=abhinavbharadwajr&column=3&margin-w=15&theme=default" alt="Abhinav's GitHub Trophy" />
 </a>
 <a href="https://github.com/abhinavbharadwajr#gh-dark-mode-only">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=abhinavbharadwajr&column=3&margin-w=15&theme=darkhub" alt="Abhinav's GitHub Trophy" />
 </a>
+<be>
+-->
 
-<br>
-
-### Wanna Know More About me? Check out my [Website](https://abhinavbharadwajr.github.io)
+### Wanna Know More About me? Check out my [Portfolio](https://abhinavbharadwajr.github.io)
 
 ### Get in Touch
 
@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:abhinav.bharadwajr@outlook.com"><img src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png"/></a>
   <a href="https://www.linkedin.com/in/abhinavbharadwajr"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
   <a href="https://twitter.com/abhinavbharad"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
-  <a href="https://wa.me/919500188610"><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png"/></a>
+  <a href="https://wa.me/917200361295"><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png"/></a>
 </p>
 
 <br>
