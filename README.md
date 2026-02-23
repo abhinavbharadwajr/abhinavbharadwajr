@@ -26,40 +26,19 @@ You can click the Preview link to take a look at your changes.
 
 ### Some GitHub Stats
 
-
-<a href="https://github.com/abhinavbharadwajr#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavbharadwajr&rank_icon=github&theme=default" />
-</a><a href="https://github.com/abhinavbharadwajr#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavbharadwajr&layout=compact&langs_count=8&card_width=320&theme=default" />
-</a>
-
-<a href="https://github.com/abhinavbharadwajr#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavbharadwajr&rank_icon=github&theme=dark#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/abhinavbharadwajr#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavbharadwajr&layout=compact&langs_count=8&card_width=320&theme=dark#gh-dark-mode-only" />
-</a>
-
-<br>
-<!--
-<a href="https://github.com/abhinavbharadwajr#gh-light-mode-only">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=abhinavbharadwajr&column=3&margin-w=15&theme=default" alt="Abhinav's GitHub Trophy" />
-</a>
-<a href="https://github.com/abhinavbharadwajr#gh-dark-mode-only">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=abhinavbharadwajr&column=3&margin-w=15&theme=darkhub" alt="Abhinav's GitHub Trophy" />
-</a>
-<be>
--->
+![GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ### Wanna Know More About me? Check out my [Portfolio](https://abhinavbharadwajr.github.io)
 
-### Get in Touch
+<br>
 
 <p align="center">
-  <a href="mailto:abhinav.bharadwajr@outlook.com"><img src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png"/></a>
-  <a href="https://www.linkedin.com/in/abhinavbharadwajr"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-  <a href="https://twitter.com/abhinavbharad"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
-  <a href="https://wa.me/917200361295"><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png"/></a>
+  <a href="mailto:abhinavbharadwajr@zohomail.in"><img src="https://img.icons8.com/?size=48&id=OumT4lIcOllS&format=png&color=000000"/></a>
+  <a href="https://www.linkedin.com/in/abhinavbharadwajr"><img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png&color=000000"/></a>
+  <a href="https://twitter.com/abhinavbharad"><img src="https://img.icons8.com/?size=48&id=5MQ0gPAYYx7a&format=png&color=000000"/></a>
+  <a href="https://wa.me/917200361295"><img src="https://img.icons8.com/?size=48&id=AltfLkFSP7XN&format=png&color=000000"/></a>
 </p>
 
 <br>
