@@ -26,9 +26,20 @@ You can click the Preview link to take a look at your changes.
 
 ### Some GitHub Stats
 
-![GitHub Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/profile/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./.github/profile/stats-light.svg" />
+    <img src="./.github/profile/stats-light.svg" alt="GitHub Stats" height="180" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/profile/top-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./.github/profile/top-langs-light.svg" />
+    <img src="./.github/profile/top-langs-light.svg" alt="Top Languages" height="180" />
+  </picture>
+</p>
+
 
 ### Wanna Know More About me? Check out my [Portfolio](https://abhinavbharadwajr.github.io)
 
@@ -44,5 +55,5 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=abhinavbharadwajr" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abhinavbharadwajr" alt="visitor badge"/>
 </p>
